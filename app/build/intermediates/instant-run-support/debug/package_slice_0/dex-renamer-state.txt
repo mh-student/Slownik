@@ -1,0 +1,4 @@
+#Thu Dec 21 23:27:17 CET 2017
+base.0=/home/mh/AndroidStudioProjects/slownik/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
